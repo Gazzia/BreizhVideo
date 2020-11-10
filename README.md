@@ -14,3 +14,4 @@ Dans votre serveur MySQL, importez et executez les trois scripts dans l'ordre su
 - insert.sql, pour peupler la base de données avec les données de l'exemple Sakila
 
 Aucune sauvegarde n'est nécessaire, les données ont bien été enregistrées sur le serveur MySQL.
+Mais pour l'exporter, allez dans "Server">"Data Export", sélctionnez la bdd breizhvideo, et faites "start export"
