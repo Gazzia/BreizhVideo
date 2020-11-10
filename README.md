@@ -5,7 +5,7 @@ SIMPLON - BreizhVideo
 
 
 
-*Pour installer :*
+**Pour installer :**
 
 Dans votre serveur MySQL, importez et executez les trois scripts dans l'ordre suivant :
 
